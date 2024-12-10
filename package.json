@@ -1,6 +1,6 @@
 {
   "name": "ev-charging-station-app",
-  "main": "expo-router/entry",
+  "main": "node_modules/expo/App.js",
   "version": "1.0.0",
   "scripts": {
     "start": "expo start",
